@@ -10,7 +10,7 @@
 Hello!  The time is now <%= new java.util.Date() %>
 <table id="customers">
 <tr>
-  <th>Company</th>
+  <th>Company </th>
   <th>Contact</th>
   <th>Country</th>
 </tr>
