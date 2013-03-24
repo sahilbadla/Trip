@@ -32,7 +32,7 @@
 				<div id="header">
 					<div id="logo">
 						<h1>
-							<a href="#">Trip Mode</a>
+							<a href="index.jsp">Trip Mode</a>
 						</h1>
 					</div>
 					<div id="nav">
@@ -41,7 +41,7 @@
 								<a href="index.jsp">Home</a>
 							</li>
 							<li>
-								<a href="#">Create Trip</a>
+								<a href="map1.jsp">Create Trip</a>
 							</li>
 							<li>
 								<a href="#">Share</a>
@@ -82,7 +82,7 @@
 						</h3>
 						<ul class="linkedList">
 							<li class="first">
-								<a href="#">Varius nulla fusce suscipit</a>
+								<a href="userLogin.jsp">New user Login here</a>
 							</li>
 							<li>
 								<a href="#">Rutrum orci amet et lorem</a>
