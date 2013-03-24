@@ -38,7 +38,7 @@
 					<div id="nav">
 						<ul>
 							<li class="first active">
-								<a href="#">Home</a>
+								<a href="index.jsp">Home</a>
 							</li>
 							<li>
 								<a href="#">Create Trip</a>
@@ -59,7 +59,7 @@
 								<a href="http://sahilbadla.blogspot.com/">Blog</a>
 							</li>
 							<li class="last">
-								<a href="#">Contact</a>
+								<a href="contact.jsp">Contact</a>
 							</li>
 						</ul>
 						<br class="clear" />
@@ -71,14 +71,14 @@
 				<div id="main">
 					<div id="sidebar1">
 						<h3>
-							Pharetra sodales egestas
+							Login
 						</h3>
 						<p>
-							Enim amet sociis ullamcorper lorem ligula. Viverra odio massa sapien et augue lacus pretium. 
-							Sociis magna faucibus dictum curabitur auctor et molestie proin sed aliquam.
+							Username: <br />
+							Password: 
 						</p>
 						<h3>
-							Venenatis elementum porttitor
+							Other Links
 						</h3>
 						<ul class="linkedList">
 							<li class="first">
@@ -112,7 +112,7 @@
 					</div>
 					<div id="sidebar2">
 						<h3>
-							Dictum sed montes
+							More Links
 						</h3>
 						<ul class="linkedList">
 							<li class="first">
@@ -135,7 +135,7 @@
 							</li>
 						</ul>
 						<h3>
-							Nulla parturient tortor
+							Some Facts
 						</h3><img class="top" src="images/pic1.jpg" width="232" height="84" alt="" />
 						<p>
 							Facilisis risus tortor elit scelerisque integer nascetur. Magnis lacus arcu erat gravida diam lorem et posuere. 
@@ -145,7 +145,7 @@
 					<div id="content">
 						<div id="box1">
 							<h2>
-								Welcome to Reverse Obscurity
+								Welcome to Trip Mode
 							</h2><img class="left" src="images/pic2.jpg" width="100" height="115" alt="" />
 							<p>
 								This is <strong>Reverse Obscurity</strong>, a three column CSS template by
@@ -161,32 +161,32 @@
 						</div>
 						<div id="box2">
 							<h3>
-								Pulvinar quis pellentesque
+								User info goes here
 							</h3>
 							<p>
 								Tempor sociis nullam proin placerat velit volutpat auctor. Fermentum et et eleifend molestie urna.
 							</p>
 							<ul class="linkedList">
 								<li class="first">
-									<a href="#">Quisque vulputate faucibus</a>
+									<a href="#">albums</a>
 								</li>
 								<li>
-									<a href="#">Neque aliquam vitae nisi</a>
+									<a href="#">friends</a>
 								</li>
 								<li>
-									<a href="#">Odio sagittis montes massa</a>
+									<a href="#">likes</a>
 								</li>
 								<li>
-									<a href="#">Curabitur euismod condimentum</a>
+									<a href="#">share</a>
 								</li>
 								<li class="last">
-									<a href="#">Imperdiet placerat mi ornare</a>
+									<a href="#">settings</a>
 								</li>
 							</ul>
 						</div>
 						<div id="box3">
 							<h3>
-								Quis curae accumsan placerat
+								Latest Updates here
 							</h3>
 							<ul class="imageList">
 								<li class="first">
